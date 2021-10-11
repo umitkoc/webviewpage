@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+<img width:300 src="umitkoc.png"/>  <img width:300 src="youtube.png"/>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
